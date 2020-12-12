@@ -1,0 +1,11 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fantastix.sprite.MainActivity">
+  <item
+      android:id="@+id/action_new_message"
+      android:icon="@drawable/ic_action_compose"
+      android:title="@string/compose_new_message"
+      android:showAsAction="always"
+      android:onClick="someMethod"/>
+</menu>

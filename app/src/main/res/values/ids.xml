@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="id" name="action_bar_activity_content" />
+	<item type="id" name="chick_chat_icon"/>
+	<item type="id" name="thanks_support"/>
+	<item type="id" name="chick_chat_app"/>
+	<item type="id" name="outerWindow"/>
+	<item type="id" name="innerWindow"/>
+	<item type="id" name="outer_bg"/>
+	<item type="id" name="project_fantastix"/>
+	<item type="id" name="version_no"/>
+	<item type="id" name="version_number"/>
+	<item type="id" name="mail_id"/>
+	<item type="id" name="madeInPNG"/>
+	<item type="id" name="toolbar_title"/>
+
+	<item type="id" name="tab_layout"/>
+	<item
+		type="id"
+		name="tab_text"/>
+	<item
+		type="id"
+		name="tab_badge"/>
+	<item
+		type="id"
+		name="about_us_body"/>
+	<item
+		type="id"
+		name="chat_clv_list"/>
+	<item
+		type="id"
+		name="chat_layout_editor"/>
+	<item
+		type="id"
+		name="chat_layout_emote"/>
+	<item
+		type="id"
+		name="chat_slayout_scroll"/>
+	<item
+		type="id"
+		name="chat_layout_rounds"/>
+	<item
+		type="id"
+		name="chat_eiv_inputview"/>
+	<item
+		type="id"
+		name="imagebrowser_svp_pager"/>
+	<item
+		type="id"
+		name="imagebrowser_iv_download"/>
+	<item
+		type="id"
+		name="imagebrowser_ptv_page"/>
+	<item
+		type="id"
+		name="imagefactory_layout_bottom"/>
+	<item
+		type="id"
+		name="imagefactory_vf_viewflipper"/>
+	<item
+		type="id"
+		name="imagefactory_btn_left"/>
+	<item
+		type="id"
+		name="imagefactory_btn_right"/>
+	<item
+		type="id"
+		name="login_linearlayout_main"/>
+	<item
+		type="id"
+		name="login_et_nickname"/>
+	<item
+		type="id"
+		name="login_htv_onlinestate"/>
+	<item
+		type="id"
+		name="login_htv_birthdaytip"/>
+	<item
+		type="id"
+		name="login_birthday_htv_constellation"/>
+	<item
+		type="id"
+		name="login_birthday_htv_age"/>
+	<item
+		type="id"
+		name="login_htv_sui"/>
+	<item
+		type="id"
+		name="login_birthday_dp_birthday"/>
+	<item
+		type="id"
+		name="login_htv_nickname_note"/>
+	<item
+		type="id"
+		name="login_baseinfo_rg_gender"/>
+	<item
+		type="id"
+		name="login_baseinfo_rb_male"/>
+	<item
+		type="id"
+		name="login_baseinfo_rb_female"/>
+	<item
+		type="id"
+		name="login_linearlayout_existmain"/>
+	<item
+		type="id"
+		name="login_img_existImg"/>
+	<item
+		type="id"
+		name="login_tv_existName"/>
+	<item
+		type="id"
+		name="login_tv_profile"/>
+	<item
+		type="id"
+		name="login_layout_Lastlogintime"/>
+	<item
+		type="id"
+		name="login_layout_gender"/>
+	<item
+		type="id"
+		name="login_iv_gender"/>
+	<item
+		type="id"
+		name="login_htv_age"/>
+	<item
+		type="id"
+		name="login_tv_constellation"/>
+	<item
+		type="id"
+		name="login_tv_lastlogintime"/>
+	<item
+		type="id"
+		name="login_btn_changeUser"/>
+	<item
+		type="id"
+		name="login_btn_back"/>
+	<item
+		type="id"
+		name="login_btn_next"/>
+	<item
+		type="id"
+		name="viewpager"/>
+	<item
+		type="id"
+		name="setting_my_avater_img"/>
+	<item
+		type="id"
+		name="setting_my_nickname"/>
+	<item
+		type="id"
+		name="setting_htv_birthdaytip"/>
+	<item
+		type="id"
+		name="setting_birthday_htv_constellation"/>
+	<item
+		type="id"
+		name="setting_birthday_htv_age"/>
+	<item
+		type="id"
+		name="setting_htv_sui"/>
+	<item
+		type="id"
+		name="setting_birthday_dp_birthday"/>
+	<item
+		type="id"
+		name="setting_htv_nickname_note"/>
+	<item
+		type="id"
+		name="setting_baseinfo_rg_gender"/>
+	<item
+		type="id"
+		name="setting_baseinfo_rb_male"/>
+	<item
+		type="id"
+		name="setting_baseinfo_rb_female"/>
+	<item
+		type="id"
+		name="setting_btn_back"/>
+	<item
+		type="id"
+		name="setting_btn_next"/>
+	<item
+		type="id"
+		name="gridview"/>
+	<item
+		type="id"
+		name="welcome_linear_ctrlbar"/>
+	<item
+		type="id"
+		name="welcome_btn_login"/>
+	<item
+		type="id"
+		name="wifiap_ly_wifistatus"/>
+	<item
+		type="id"
+		name="wifiap_tv_wifistatus"/>
+	<item
+		type="id"
+		name="wifiap_lv_wifi"/>
+	<item
+		type="id"
+		name="wifiap_footer"/>
+	<item
+		type="id"
+		name="wifiap_lv_create_ok"/>
+	<item
+		type="id"
+		name="wifiap_tv_createap_ssid"/>
+	<item
+		type="id"
+		name="wifiap_btn_back"/>
+	<item
+		type="id"
+		name="wifiap_btn_createap"/>
+	<item
+		type="id"
+		name="wifiap_btn_next"/>
+	<item
+		type="id"
+		name="dialog_generic_layout_root"/>
+	<item
+		type="id"
+		name="dialog_generic_layout_top"/>
+	<item
+		type="id"
+		name="dialog_generic_layout_title"/>
+	<item
+		type="id"
+		name="dialog_generic_htv_title"/>
+	<item
+		type="id"
+		name="dialog_generic_view_titleline"/>
+	<item
+		type="id"
+		name="dialog_generic_layout_content"/>
+	<item
+		type="id"
+		name="dialog_generic_htv_message"/>
+	<item
+		type="id"
+		name="dialog_generic_layout_bottom"/>
+	<item
+		type="id"
+		name="dialog_generic_btn_button1"/>
+	<item
+		type="id"
+		name="dialog_generic_btn_button2"/>
+	<item
+		type="id"
+		name="dialog_generic_btn_button3"/>
+	<item
+		type="id"
+		name="emotionbar_gv_display"/>
+	<item
+		type="id"
+		name="loadingdialog_fiv_icon"/>
+	<item
+		type="id"
+		name="loadingdialog_htv_text"/>
+	<item
+		type="id"
+		name="switcher_layout_root"/>
+	<item
+		type="id"
+		name="switcher_layout_tab"/>
+	<item
+		type="id"
+		name="switcher_iv_left_image"/>
+	<item
+		type="id"
+		name="switcher_tv_left_text"/>
+	<item
+		type="id"
+		name="switcher_iv_right_image"/>
+	<item
+		type="id"
+		name="switcher_tv_right_text"/>
+	<item
+		type="id"
+		name="toast_text"/>
+	<item
+		type="id"
+		name="friends_list"/>
+	<item
+		type="id"
+		name="message_list"/>
+	<item
+		type="id"
+		name="message_empty"/>
+	<item
+		type="id"
+		name="setting_my_info_layout"/>
+	<item
+		type="id"
+		name="mynickname"/>
+	<item
+		type="id"
+		name="btn_setting_my_information"/>
+	<item
+		type="id"
+		name="MorePageTableLayout_Follow"/>
+	<item
+		type="id"
+		name="checkbox_sound"/>
+	<item
+		type="id"
+		name="checkbox_vibration"/>
+	<item
+		type="id"
+		name="btn_delete_all_chattinginfo"/>
+	<item
+		type="id"
+		name="btn_about_us"/>
+	<item
+		type="id"
+		name="btn_exit_application"/>
+	<item
+		type="id"
+		name="dialog_et_connectWifi"/>
+	<item
+		type="id"
+		name="dialog_cb_showpwd"/>
+	<item
+		type="id"
+		name="dialog_simplelist_list"/>
+	<item
+		type="id"
+		name="fullscreen_mask"/>
+	<item
+		type="id"
+		name="imagefactory_crop_civ_display"/>
+	<item
+		type="id"
+		name="imagefactory_crop_pb_progressbar"/>
+	<item
+		type="id"
+		name="imagefactory_fliter_riv_image"/>
+	<item
+		type="id"
+		name="imagefactory_fliter_item_1"/>
+	<item
+		type="id"
+		name="imagefactory_fliter_item_2"/>
+	<item
+		type="id"
+		name="chat_audioditor_ib_plus"/>
+	<item
+		type="id"
+		name="chat_audioditor_ib_keyboard"/>
+	<item
+		type="id"
+		name="chat_audioditor_iv_audiobtn"/>
+	<item
+		type="id"
+		name="chat_textditor_ib_plus"/>
+	<item
+		type="id"
+		name="chat_textditor_ib_keyboard"/>
+	<item
+		type="id"
+		name="chat_textditor_ib_emote"/>
+	<item
+		type="id"
+		name="chat_textditor_eet_editer"/>
+	<item
+		type="id"
+		name="chat_textditor_btn_send"/>
+	<item
+		type="id"
+		name="chat_textditor_iv_audio"/>
+	<item
+		type="id"
+		name="otherprofile_htv_ipaddress"/>
+	<item
+		type="id"
+		name="otherprofile_htv_device"/>
+	<item
+		type="id"
+		name="otherprofile_bottom_layout_chat"/>
+	<item
+		type="id"
+		name="otherprofile_layout_sex_sign"/>
+	<item
+		type="id"
+		name="otherprofile_layout_gender"/>
+	<item
+		type="id"
+		name="otherprofile_iv_gender"/>
+	<item
+		type="id"
+		name="otherprofile_htv_age"/>
+	<item
+		type="id"
+		name="otherprofile_htv_constellation"/>
+	<item
+		type="id"
+		name="otherprofile_htv_time"/>
+	<item
+		type="id"
+		name="myprofile_avatarimage"/>
+	<item
+		type="id"
+		name="user_item_iv_avatar"/>
+	<item
+		type="id"
+		name="user_item_iv_icon_device"/>
+	<item
+		type="id"
+		name="user_item_htv_name"/>
+	<item
+		type="id"
+		name="user_item_layout_gender"/>
+	<item
+		type="id"
+		name="user_item_iv_gender"/>
+	<item
+		type="id"
+		name="user_item_htv_age"/>
+	<item
+		type="id"
+		name="user_item_htv_time"/>
+	<item
+		type="id"
+		name="user_item_htv_lastmsg"/>
+	<item
+		type="id"
+		name="listitem_dialog_text"/>
+	<item
+		type="id"
+		name="listitem_dialog_icon"/>
+	<item
+		type="id"
+		name="emote_item_iv_image"/>
+	<item
+		type="id"
+		name="filter_item_image"/>
+	<item
+		type="id"
+		name="filter_item_cover"/>
+	<item
+		type="id"
+		name="filter_item_text"/>
+	<item
+		type="id"
+		name="wifiap_item_iv_rssi"/>
+	<item
+		type="id"
+		name="wifiap_item_tv_ssid"/>
+	<item
+		type="id"
+		name="wifiap_item_tv_desc"/>
+	<item
+		type="id"
+		name="pull_to_refresh_progress"/>
+	<item
+		type="id"
+		name="load_more"/>
+	<item
+		type="id"
+		name="head_contentLayout"/>
+	<item
+		type="id"
+		name="head_arrowImageView"/>
+	<item
+		type="id"
+		name="head_progressBar"/>
+	<item
+		type="id"
+		name="head_tipsTextView"/>
+	<item
+		type="id"
+		name="head_lastUpdatedTextView"/>
+	<item
+		type="id"
+		name="messgae_file_bg"/>
+	<item
+		type="id"
+		name="message_file_htv_loading_text"/>
+	<item
+		type="id"
+		name="left_message_layout_contentcontainer"/>
+	<item
+		type="id"
+		name="left_message_iv_userphoto"/>
+	<item
+		type="id"
+		name="left_message_layout_leftcontainer"/>
+	<item
+		type="id"
+		name="left_message_layout_messagecontainer"/>
+	<item
+		type="id"
+		name="left_margin_view"/>
+	<item
+		type="id"
+		name="right_message_layout_contentcontainer"/>
+	<item
+		type="id"
+		name="right_message_layout_leftcontainer"/>
+	<item
+		type="id"
+		name="right_margin_view"/>
+	<item
+		type="id"
+		name="message_layout_status"/>
+	<item
+		type="id"
+		name="message_htv_status"/>
+	<item
+		type="id"
+		name="right_message_layout_messagecontainer"/>
+	<item
+		type="id"
+		name="right_message_iv_userphoto"/>
+	<item
+		type="id"
+		name="message_iv_msgimage"/>
+	<item
+		type="id"
+		name="message_htv_loading_text"/>
+	<item
+		type="id"
+		name="message_plus_layout_bar"/>
+	<item
+		type="id"
+		name="message_plus_layout_picture"/>
+	<item
+		type="id"
+		name="message_plus_layout_camera"/>
+	<item
+		type="id"
+		name="message_plus_layout_file"/>
+	<item
+		type="id"
+		name="message_etv_msgtext"/>
+	<item
+		type="id"
+		name="message_layout_timecontainer"/>
+	<item
+		type="id"
+		name="message_timestamp_layout"/>
+	<item
+		type="id"
+		name="message_timestamp_htv_time"/>
+	<item
+		type="id"
+		name="voice_message"/>
+	<item
+		type="id"
+		name="voice_message_iv_msgimage"/>
+	<item
+		type="id"
+		name="record_dialog_img"/>
+	<item
+		type="id"
+		name="record_dialog_txt"/>
+	<item
+		type="id"
+		name="menu_userinfo"/>
+
+	<item type="id" name="btn_back"/>
+	<item type="id" name="image_aboutback"/>
+	<item type="id" name="ic_launcher"/>
+	<item type="id" name="version_layout"/>
+	<item type="id" name="version"/>
+	<item type="id" name="user_guide"/>
+	<item type="id" name="avater_view"/>
+	<item type="id" name="btn_buzz"/>
+	<item type="id" name="kick_out_layout"/>
+	<item type="id" name="btn_kick_out"/>
+	<item type="id" name="dialog_close"/>
+	<item type="id" name="create_join_layout"/>
+	<item type="id" name="create_connect_tv"/>
+	<item type="id" name="join_group"/>
+	<item type="id" name="create_group"/>
+	<item type="id" name="group_list_layout"/>
+	<item type="id" name="btn_cancel"/>
+	<item type="id" name="scan_group_waiting_layout"/>
+	<item type="id" name="groups_list"/>
+	<item type="id" name="select_display"/>
+	<item type="id" name="btn_delete_history"/>
+	<item type="id" name="btn_delete_history_and_file"/>
+	<item type="id" name="btn_share_or_delete"/>
+	<item type="id" name="share_or_delete_iv"/>
+	<item type="id" name="btn_close_prompt"/>
+	<item type="id" name="no_history"/>
+	<item type="id" name="historylist"/>
+	<item type="id" name="no_music"/>
+	<item type="id" name="medialist"/>
+	<item type="id" name="no_photo"/>
+	<item type="id" name="photoView"/>
+	<item type="id" name="no_picture"/>
+	<item type="id" name="pictureView"/>
+	<item type="id" name="no_video"/>
+	<item type="id" name="videoView"/>
+	<item type="id" name="user_avater"/>
+	<item type="id" name="user_name"/>
+	<item type="id" name="share_item"/>
+	<item type="id" name="line1"/>
+	<item type="id" name="browse_item"/>
+	<item type="id" name="line2"/>
+	<item type="id" name="delete_item"/>
+	<item type="id" name="group_avater"/>
+	<item type="id" name="btn_join"/>
+	<item type="id" name="group_name"/>
+	<item type="id" name="history_date_layout"/>
+	<item type="id" name="history_date"/>
+	<item type="id" name="send_layout"/>
+	<item type="id" name="myself_avater"/>
+	<item type="id" name="history_send_content"/>
+	<item type="id" name="send_to_user_name"/>
+	<item type="id" name="send_to_file_img"/>
+	<item type="id" name="send_to_file_name"/>
+	<item type="id" name="send_to_file_size"/>
+	<item type="id" name="receive_layout"/>
+	<item type="id" name="send_user_avater"/>
+	<item type="id" name="send_user_name"/>
+	<item type="id" name="history_receive_progress"/>
+	<item type="id" name="history_receive_content"/>
+	<item type="id" name="browse_layout"/>
+	<item type="id" name="history_browse"/>
+	<item type="id" name="send_file_img"/>
+	<item type="id" name="send_file_name"/>
+	<item type="id" name="send_file_size"/>
+	<item type="id" name="history_receive_progressbar"/>
+	<item type="id" name="image_back"/>
+	<item type="id" name="message_layout"/>
+	<item type="id" name="invite_message_1"/>
+	<item type="id" name="invite_message_2"/>
+	<item type="id" name="invite_step1_title"/>
+	<item type="id" name="invite_step1_message"/>
+	<item type="id" name="bluetooth_image"/>
+	<item type="id" name="invite_step2_title"/>
+	<item type="id" name="invite"/>
+	<item type="id" name="step2_layout_id"/>
+	<item type="id" name="share_file_view"/>
+	<item type="id" name="main_top_bar"/>
+	<item type="id" name="btn_menu"/>
+	<item type="id" name="connect_layout"/>
+	<item type="id" name="myself_layout"/>
+	<item type="id" name="btn_disconnect"/>
+	<item type="id" name="btn_invite"/>
+	<item type="id" name="friend_list"/>
+	<item type="id" name="grid_view"/>
+	<item type="id" name="wait_connect"/>
+	<item type="id" name="progressbar_window"/>
+	<item type="id" name="connect_prompt"/>
+	<item type="id" name="no_friend_avater"/>
+	<item type="id" name="btn_connect_friends"/>
+	<item type="id" name="selected_layout"/>
+	<item type="id" name="select_all"/>
+	<item type="id" name="selected_number_tv"/>
+	<item type="id" name="selected_tv"/>
+	<item type="id" name="main_bottom_bar"/>
+	<item type="id" name="img_tab_camera"/>
+	<item type="id" name="img_tab_pictures"/>
+	<item type="id" name="img_tab_video"/>
+	<item type="id" name="img_tab_music"/>
+	<item type="id" name="img_tab_history"/>
+	<item type="id" name="vPager"/>
+	<item type="id" name="selected_releativelayout_id"/>
+	<item type="id" name="selected_tv_layout"/>
+	<item type="id" name="img_indicator_camera"/>
+	<item type="id" name="indicator_picture"/>
+	<item type="id" name="indicator_video"/>
+	<item type="id" name="indicator_audio"/>
+	<item type="id" name="indicator_history"/>
+	<item type="id" name="music_img"/>
+	<item type="id" name="music_selected"/>
+	<item type="id" name="music_tv_display"/>
+	<item type="id" name="music_name"/>
+	<item type="id" name="music_artist"/>
+	<item type="id" name="item_relativelayout_id"/>
+	<item type="id" name="photo_img"/>
+	<item type="id" name="photo_selected"/>
+	<item type="id" name="pic_img"/>
+	<item type="id" name="picture_selected"/>
+	<item type="id" name="invoke_camera"/>
+	<item type="id" name="select_from_gallery"/>
+	<item type="id" name="btn_save"/>
+	<item type="id" name="set_user_name"/>
+	<item type="id" name="set_avatar"/>
+	<item type="id" name="take_photo"/>
+	<item type="id" name="choose_avater_gridview"/>
+	<item type="id" name="title_shadow"/>
+	<item type="id" name="editext_relativelayout"/>
+	<item type="id" name="arrow_right_id"/>
+	<item type="id" name="grid_relativelayout"/>
+	<item type="id" name="app_version"/>
+	<item type="id" name="app_version_number"/>
+	<item type="id" name="app_vesion_layout_id"/>
+	<item type="id" name="splash_name"/>
+	<item type="id" name="video_img"/>
+	<item type="id" name="videoTime"/>
+	<item type="id" name="video_selected"/>
+	<item type="id" name="welcomePager"/>
+	<item type="id" name="radioGroup"/>
+	<item type="id" name="radio_btn_first"/>
+	<item type="id" name="radio_btn_second"/>
+	<item type="id" name="radio_btn_third"/>
+	<item type="id" name="btn_lastPager_start"/>
+	<item type="id" name="about"/>
+	<item type="id" name="exit"/>
+	<item type="id" name="img_share"/>
+	<item type="id" name="img_browse"/>
+	<item type="id" name="img_delete"/>
+	<item type="id" name="media_share"/>
+	<item type="id" name="media_play"/>
+	<item type="id" name="media_delete"/>
+	<item type="id" name="play"/>
+	<item type="id" name="delete"/>
+	<item type="id" name="share"/>
+	<item type="id" name="browse"/>
+	<item type="id" name="batch_delete"/>
+</resources>

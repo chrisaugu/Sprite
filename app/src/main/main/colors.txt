@@ -1,0 +1,31 @@
+.game-result.correct {
+    color: #6CBC42;
+    background-color: #D8FFC3;
+}
+.game-result.incorrect {
+    color: #E40000;
+    background-color: #FFC3C3;
+}
+    background-color: #6A1EC3;
+    background-image: linear-gradient(90deg,#6A1EC3 0%,#D32EC6 100%);
+    height: 23px;
+}
+.grade-title.grade-1:before {
+    content: "1";
+    background-color: #ff65a9;
+}
+.addition.skill-badge>div {
+    border-color: #ed145b;
+}
+.content-frame>.title.standards, .mobile-title.standards {
+    background-color: #31B06D;
+}
+
+    background-color: #f6f9fd;
+    background-color: #ed145b;
+
+.successbox {
+    color: #008000;
+    border-color: #b7fdb5;
+    background-color: #e1fddf;
+}

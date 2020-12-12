@@ -1,0 +1,418 @@
+<resources>
+    <string name="app_name">Sprite</string>
+	<string name="title">%1$s</string>
+	<string name="app_version_number">1.0.0</string>
+	<string name="app_version">Version</string>
+
+	<string name="title_activity_messenger">Messenger</string>
+	<string name="title_activity_camera">Camera</string>
+	<string name="title_activity_profile">Profile</string>
+	<string name="title_activity_notify">Notification</string>
+	<string name="title_activity_settings">Settings</string>
+	<string name="title_activity_network">Trending</string>
+	<string name="title_activity_about">About</string>
+	<string name="title_activity_chatbot">Chatbot</string>
+	<string name="title_discover">Discover</string>
+
+	<!-- Live chats -->
+	<string name="newbies">Newbies</string>
+	<string name="flirting">Flirting</string>
+	<string name="_music">Music</string>
+	<string name="_movies">Movies</string>
+	<string name="_religion_beliefs">Religion &amp; Beliefs</string>
+	<string name="love_romance">Love &amp; Romance</string>
+	<string name="games_gamers">Games &amp; gamers</string>
+	<string name="friendship">Friendship</string>
+
+	<!-- Fanclubs -->
+	<string name="dating">Dating</string>
+	<string name="music">Music</string>
+	<string name="movies">Movies</string>
+	<string name="sports">Sports</string>
+	<string name="video_games">Video games</string>
+	<string name="religion_beliefs">Religion &amp; Beliefs</string>
+	<string name="tech_computing">Tech &amp; Computing</string>
+	<string name="news_gossips">News &amp; Gossips</string>
+	<string name="automotives">Automotives</string>
+	<string name="general_talk">General Talk</string>
+
+	<string name="currentUserId">User</string>
+	<string name="enter_name">Nickname</string>
+	<string name="enter_name2">Please enter your name</string>
+	<string name="username">username</string>
+	<string name="send_short">send</string>
+	<string name="login_hint_nickname">%1$s</string>
+	<string name="login_login_as">Sign in as %1$s</string>
+	<string name="continue_as">Continue as %1$s</string>
+	<string name="edittext_default"></string>
+
+	<string name="next">Next</string>
+	<string name="enter">Enter</string>
+	<string name="start_using_sprite">Start using Sprite</string>
+
+	<string name="developed_by_text">Christian Augustyn</string>
+	<string name="copyright">Copyright © 2020 Sprite</string>
+	<string name="slogan">Keep up and meet up with friends</string>
+	<string name="slogan2">If he is a him, why isn\'t she a shim? ;)</string>
+	<string name="status_title">Status</string>
+	<string name="status_default">If he is a him, why isn\'t she a shim?</string>
+	<string name="about_us_text">Cris is a peer-to-peer messaging app which lets you chat with nearby friends with no internet connection.</string>
+	<string name="about_us_words"></string>
+	<string name="terms_use">Terms of use</string>
+	<string name="version_number">1.0.0</string>
+	<string name="version_no">1.0.0</string>
+
+	<string name="message_ellipses">Type in something...</string>
+	<string name="message_ellipses2">Message %s</string>
+	<string name="agree_continue">agree and continue</string>
+
+	<!-- drawer strings -->
+
+	<string name="title_section1">Section 1</string>
+	<string name="title_section2">Section 2</string>
+	<string name="title_section3">Section 3</string>
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+
+	<string name="action_example">Example action</string>
+
+	<!-- Notofication -->
+	<string name="app_description">Notification sample.</string>
+	<string name="menu_settings">Settings</string>
+	<string name="title_activity_main">MainActivity</string>
+	<string name="notification">Ping Notification</string>
+	<string name="label">Ping Me</string>
+
+	<!--  Buttons -->
+	<string name="ping">Ping!</string>
+	<string name="snooze">Snooze</string>
+	<string name="dismiss">Dismiss</string>
+
+	<!--  Text Views -->
+	<string name="ping_text">Set Seconds Until Ping</string>
+	<string name="done_snoozing">Done Snoozing.</string>
+	<string name="seconds_default">10</string>
+	<string name="reminder_label">Reminder Text</string>
+	<string name="reminder_text">Don\'t forget!</string>
+
+	<!--  Logging -->
+	<string name="snoozing">Snoozing!</string>
+	<string name="timer_start">Setting the timer</string>
+	<string name="sleep_error">Sleep failure</string>
+	<string name="timer_finished">Timer finished.</string>
+
+
+	<!-- Speech to text -->
+	<string name="speech_prompt">Say something&amp;8230;</string>
+	<string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+	<string name="tap_on_mic">Tap on mic to speak</string>
+	<string name="tap_me">Tap me to speak</string>
+	<string name="speak_out">Speak now</string>
+
+	<string-array name="list">
+		<item>Hi</item>
+		<item>Item 2</item>
+		<item>Item 3</item>
+		<item>Item 4</item>
+		<item>Item 5</item>
+	</string-array>
+
+		<!-- Example General settings -->
+		<string name="pref_header_general">General</string>
+
+		<string name="pref_title_social_recommendations">Enable social recommendations</string>
+		<string name="pref_description_social_recommendations">Recommendations for people to contact based on your message
+		history
+	</string>
+
+		<string name="pref_title_display_name">Display name</string>
+		<string name="pref_default_display_name">John Smith</string>
+
+		<string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+		<string-array name="pref_example_list_titles">
+			<item>Always</item>
+			<item>When possible</item>
+			<item>Never</item>
+		</string-array>
+		<string-array name="pref_example_list_values">
+			<item>1</item>
+			<item>0</item>
+			<item>-1</item>
+		</string-array>
+
+		<!-- Example settings for Data & Sync -->
+		<string name="pref_header_data_sync">Data &amp; sync</string>
+
+		<string name="pref_title_sync_frequency">Sync frequency</string>
+		<string-array name="pref_sync_frequency_titles">
+			<item>15 minutes</item>
+			<item>30 minutes</item>
+			<item>1 hour</item>
+			<item>3 hours</item>
+			<item>6 hours</item>
+			<item>Never</item>
+		</string-array>
+		<string-array name="pref_sync_frequency_values">
+			<item>15</item>
+			<item>30</item>
+			<item>60</item>
+			<item>180</item>
+			<item>360</item>
+			<item>-1</item>
+		</string-array>
+
+		<string-array name="list_preference_entries">
+			<item>Entry 1</item>
+			<item>Entry 2</item>
+			<item>Entry 3</item>
+		</string-array>
+
+		<string-array name="list_preference_entry_values">
+			<item>1</item>
+			<item>2</item>
+			<item>3</item>
+		</string-array>
+
+		<string-array name="multi_select_list_preference_default_value"/>
+
+		<string name="pref_title_system_sync_settings">System sync settings</string>
+
+		<!-- Example settings for Notifications -->
+		<string name="pref_header_notifications">Notifications</string>
+
+		<string name="pref_title_new_message_notifications">New message notifications</string>
+
+		<string name="pref_title_ringtone">Ringtone</string>
+		<string name="pref_ringtone_silent">Silent</string>
+
+		<string name="pref_title_vibrate">Vibrate</string>
+
+	<!-- settings strings -->
+	<string name="settings_chat">Chat</string>
+	<string name="settings_language">Language</string>
+	<string name="settings_chat_category">Category</string>
+	<string name="settings_input_enter_send">Enter to Send</string>
+	<string name="settings_input_enter_send_summary_on">Press enter to send</string>
+	<string name="settings_input_enter_send_summary_off">Press enter to send</string>
+	<string name="settings_font_size">Font size</string>
+	<string name="settings_font_size_summary">Pick best fonts size</string>
+	<string name="wallpaper">Wallpaper</string>
+	<string name="settings_backup">Back your chats</string>
+	<string name="settings_chat_history">Recover your chats</string>
+
+	<!-- Strings related to login -->
+	<string name="prompt_email">Email</string>
+	<string name="prompt_password">Password (optional)</string>
+	<string name="action_sign_in">Sign in or register</string>
+	<string name="action_sign_in_short">Sign in</string>
+	<string name="error_invalid_email">This email address is invalid</string>
+	<string name="error_invalid_password">This password is too short</string>
+	<string name="error_incorrect_password">This password is incorrect</string>
+	<string name="error_field_required">This field is required</string>
+	<string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+	<!-- message strings -->
+	<string name="no_unread_messages">No unread messages</string>
+	<string name="no_new_messages">No new messages</string>
+	<string name="compose_new_message">Compose new message</string>
+	<string name="delete_all_messages">Delete all messages</string>
+
+	<!-- Error messages -->
+
+	<!-- Terms & Conditions -->
+<!--	<string name="sprite_terms">-->
+<!--		<b>Founder CEO\n\n</b>-->
+<!--		A founder CEO is a person who founded a firm by taking initiative and deciding to create their vision for a firm in actual life, and held the CEO position subsequently.-->
+<!--		If the firm\'s CEO is not a founder or the founder CEO is succeeded, the firm is said to be led by a non-founder CEO, otherwise known as a successor CEO.-->
+<!--		Research has highlighted differences among founder and non-founder CEOs that impact firm performance.-->
+<!--		The negative and positive contributions identified in research include: stock performance, equity stake in the firm, managerial incentives, innovation investment, and outlook towards mergers and acquisitions.-->
+
+<!--		Founder CEO succession can occur through both voluntary and involuntary means. Noam Wasserman found in majority of founder CEO successions, the founder is forced to step down by investors. Founder CEOs who successfully execute product development or enter into negotiations with potential outside investors for additional capital have a higher likelihood of being replaced than those who are not as successful with product development and/or do not to raise additional capital. Indicated by several scholars, like Wasserman, as the CEO becomes successful in product development the needs of the firm expand and a mismatch between the current skills of the founder CEO and the new skills needed for the firm\'s success going forward is likely to occur, increasing the probability of succession. Founder CEOs are generally succeeded by someone from outside the firm.[6] Founder CEO comebacks have occurred when the founder CEO was replaced and later returned to their role as CEO.-->
+<!--	</string>-->
+    <string name="no_notification">You have no new notifications</string>
+	<string name="updates_str">Updates about what is happening to you and your stories will be shown here</string>
+
+	<string name="enable_p2p_button">P2P On/Off</string>
+	<string name="discover_peers_button">Discover</string>
+	<string name="connect_peer_button">Connect</string>
+	<string name="disconnect_peer_button">Disconnect</string>
+	<string name="start_chat_button">Start Chatting</string>
+	<string name="empty">d</string>
+	<string name="client_text">This device will act as a client. Click on Start Chatting button</string>
+	<string name="empty_message">No devices found. Turn on P2P and perform discovery from the Action Bar</string>
+	<string name="p2p_off_warning">Enable P2P from action bar button above or system settings</string>
+	<string name="group_owner_text">"Am I the Group Owner? "</string>
+	<string name="label_me">ME</string>
+	<string name="label_peers">PEERS</string>
+	<string name="app_about">about</string>
+	<string name="help">help</string>
+
+	<string name="about">Yolo is a project by Christian Augustyn.</string>
+	<string name="large_text">
+		"Material is the metaphor.\n\n"
+	</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+	<string name="stakwan_messenger">Conversation</string>
+
+	<string name="action_settings">Settings</string>
+	<string name="action_go_offline">Go Offline</string>
+	<string name="action_go_online">Go Online</string>
+	<string name="action_turn_on_wifi">turn on wifi</string>
+	<string name="action_turn_off_wifi">turn off wifi</string>
+	<string name="action_create_hotspot">create hotspot</string>
+	<string name="action_close_hotspot">close hotspot</string>
+	<string name="connected">Connected</string>
+	<string name="not_connected">Not Connected</string>
+
+	<string name="user_guide">User Guide</string>
+	<string name="wifi_transfer">Wi-Fi transfer</string>
+	<string name="welcome_first_tv">Files can be transferred as fast as lightning, anytime and anywhere.</string>
+	<string name="welcome_second_tv">Transfer files without any mobile data connection.</string>
+	<string name="welcome_last_tv">Massively send and receive. Share instantly.</string>
+	<string name="start">Start chatting</string>
+	<string name="camera">Camera</string>
+	<string name="chat">Chat</string>
+	<string name="people">People</string>
+	<string name="blogs">Blogs</string>
+	<string name="share">Share</string>
+	<string name="browse">Browse</string>
+	<string name="play">Play</string>
+	<string name="delete">Delete</string>
+	<string name="back_string">Back</string>
+	<string name="save_string">Save</string>
+	<string name="sure_exit">Sure you want to exit?</string>
+	<string name="sure_delete">Sure you want to delete?</string>
+	<string name="hide">Hide</string>
+	<string name="no_photo">No photo</string>
+	<string name="no_picture">No pictures</string>
+	<string name="no_music">No music</string>
+	<string name="no_video">No video</string>
+	<string name="no_history">No history</string>
+	<string name="me">Me</string>
+	<string name="unknown">Unknown</string>
+	<string name="share_prompt_first">Share with your friends</string>
+	<string name="share_prompt_second">Shake the device or click share button to share.</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="set_name_avater">Set name and avater</string>
+	<string name="set_name_stakwan">Set your Stakwan name</string>
+	<string name="select_avatar">Avater</string>
+	<string name="set_name_hint">Name</string>
+	<string name="name_set_support">Support 12 English characters</string>
+	<string name="user_name_null">User name is null. Please set name first.</string>
+	<string name="invoke_camera">Take photo</string>
+	<string name="select_from_gallery">Select photo from Gallery</string>
+	<string name="insert_external_card">Please insert the external card firstly.</string>
+	<string name="refuse_modify_user_name">Please close connection before modifying user information.</string>
+	<string name="save_succeed">Saved.</string>
+	<string name="connect_with_friend">Connect with friends</string>
+	<string name="shrae_data_prompt">Your data will be shared, turn off data connection?</string>
+	<string name="airplane_conflict_prompt">"Couldn\'t connect with friends in airplane mode, please turn off airplane mode"</string>
+	<string name="create_group">Creating the group…</string>
+	<string name="wait_connect">"Group created, waiting for friend…"</string>
+	<string name="close_connect">Closing…</string>
+	<string name="connecting">Connecting…</string>
+	<string name="exit_connect">Exiting…</string>
+	<string name="create_group_tv">One creates a group</string>
+	<string name="scan_groups_tv">Others scan to join</string>
+	<string name="create_a_group">Create a group</string>
+	<string name="scan_to_join">Scan to join</string>
+	<string name="scanning">Scanning...</string>
+	<string name="sure_disconnect">Sure you want to disconnect?</string>
+	<string name="no_friend_join">No friends to join, disconnect?</string>
+	<string name="waiting">Waiting</string>
+	<string name="disconnect">Disconnect</string>
+	<string name="touch_to_join">Touch to join</string>
+	<string name="buzz">Buzz</string>
+	<string name="kick_out">Kick out</string>
+	<string name="message_buzz">%s just buzzed you</string>
+	<string name="message_offline">You are offline</string>
+	<string name="message_connection_failed">Connection failed.</string>
+	<string name="wait_friend_connect">Please wait for your friend</string>
+	<string name="forbid_wifi_in_airplane">In Airplane mode</string>
+	<string name="connect_with_friend_firstly">No friend connected, cannot share.</string>
+	<string name="selected">Selected</string>
+	<string name="select_all">Select all</string>
+	<string name="deselect_all">Deselect all</string>
+	<string name="unknown_file_type">Unknown file type</string>
+	<string name="process" />
+	<string name="notificaion_disconnect">Disconnected</string>
+	<string name="notificaion_connect">Connected</string>
+	<string name="notificaion_transfer">Transferring</string>
+	<string name="notificaion_transfer_finished">Wi-Fi transfer running ... Transfer finished.</string>
+	<string name="notificaion_transfer_failed">Wi-Fi transfer running ... Transfer failed.</string>
+	<string name="status_pending">Pending</string>
+	<string name="status_running">running</string>
+	<string name="status_success">success</string>
+	<string name="status_bad_request">Request failed</string>
+	<string name="status_canceled">Transfer cancelled by user.</string>
+	<string name="status_file_error">File error</string>
+	<string name="status_file_not_exist">The file does not exist.</string>
+	<string name="status_error_sdcard_full">Storage is full</string>
+	<string name="status_no_sdcard">No SD card</string>
+	<string name="status_connection_error">Connection error</string>
+	<string name="dir_other">Other</string>
+	<string name="dir_audio">Audio</string>
+	<string name="dir_image">Image</string>
+	<string name="dir_video">Video</string>
+	<string name="today">Today</string>
+	<string name="send_to">Send to</string>
+	<string name="send_to_group">Group</string>
+	<string name="delete_history">Delete history</string>
+	<string name="delete_history_and_file">Delete history and files</string>
+	<string name="transfer_failed">Transfer failed</string>
+	<string name="invite_message_1">"Your friend doesn\'t have this app?"</string>
+	<string name="invite_message_2">(Only for Android)</string>
+	<string name="invite_step1_title">Step 1:</string>
+	<string name="invite_step1_message">Ask your friend to open Bluetooth and become visible to all nearby Bluetooth devices.</string>
+	<string name="invite_bluetooth_title">Bluetooth</string>
+	<string name="invite_bluetooth_content">Visible to all nearby Bluetooth devices</string>
+	<string name="invite_step2_title">Step 2:</string>
+	<string name="invite_step2_message">"Click the invite button to pair with your friend\'s device and share this app."</string>
+	<string name="menu_batch_delete">Batch delete</string>
+	<string name="menu_about">About</string>
+	<string name="menu_exit">Exit</string>
+	<string name="menu_invite">Invite</string>
+	<string name="wait_connect_land">Group created, waiting for friend…</string>
+	<string name="failed_crop">"Couldn\'t crop the image, please select the other one"</string>
+
+
+    <!-- App menu_main -->
+    <string name="copyright1">Copyright 2017</string>
+
+    <!-- Login -->
+    <string name="user_name">Please type your name</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="phone_number_hint">888 88 888</string>
+    <string name="country_code">Country Code:</string>
+    <string name="agree_continue_text">By clicking "Agree and Continue" you are agreeing to our Terms of Service and Privacy Policy.</string>
+    <string name="address_book">Your phone number and address book are used to connect you with your friends. We will send an SMS or call to verify your phone.</string>
+    <string name="country_codes_list">
+        <item name="PG">+675</item>
+
+    </string>
+    <string name="view_licenses">You agreed to my Terms and Conditions therefore you continue using this app.</string>
+	<string name="developed_by">Developed by Kitten</string>
+    <string name="developer_site">www.christianaugustyn.me</string>
+
+    <!-- Direct Message Now -->
+    <string name="inbox">Inbox</string>
+    <string name="compose_dm">New Message</string>
+    <string name="no_new_message">No New Messages</string>
+    <string name="no_message">No Messages</string>
+    <string name="welcome_chats_message">Welcome</string>
+    <string name="no_recent_emoji">No recent emojis</string>
+
+    <!-- Menu -->
+    <string name="my_connections">My Connections</string>
+    <string name="direct_message">Chat</string>
+    <string name="new_direct_message">New Message</string>
+
+    <string name="camera_tip">Here are tips</string>
+
+</resources>

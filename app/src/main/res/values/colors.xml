@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF4081</color>
+	<color name="accentDark">#e6326f</color>
+	<color name="darkBg">#454</color>
+	<color name="purple">#8A2BE2</color>
+	<color name="orange_toolbar">@android:color/holo_orange_light</color>
+	<color name="white">#ffffffff</color>
+	<color name="black">#ff000000</color>
+	<color name="grey_2_whiteout">#ffffff</color>
+	<color name="camera_shutter_outer_ring">#ff408dcb</color>
+	<color name="accent_blue_medium">#ff4d9ad8</color>
+	<color name="about_us_background">#ff36474f</color>
+	<color name="default_background">#3d3d3d</color>
+	<color name="divider_gray">#1e000000</color>
+	<color name="footer">#ff596169</color>
+	<color name="link_color_incoming2">#ff2b9fd9</color>
+	<color name="link_color_outgoing2">#ff14a1b3</color>
+	<color name="background_gradient_start">#000000</color>
+	<color name="background_gradient_end">#DDDDDD</color>
+
+	<color name="bg_gradient_start">#31244e</color>
+	<color name="bg_gradient_end">#6b394c</color>
+	<color name="bot_bg">#cfd6dc</color>
+	<color name="primary_bg">#cfd6dc</color>
+	<color name="speech_bg">#ebeff2</color>
+	<color name="toast_shape_color">#ee444444</color>
+	<color name="network_toolbar_color">#e11e1e1e</color>
+	<color name="network_background_color_disable">#ff3e3f43</color>
+	<color name="network_background_color">#ff25252b</color>
+	<color name="network_background_text_color">#ffbdbdbe</color>
+
+    <color name="material_blue_grey_200">#ffb0bec5</color>
+    <color name="material_blue_grey_700">#ff455a64</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+
+	<color name="deere_color">#ff36474f</color>
+	<color name="holo_blue_bright">#ff00ddff</color>
+	<color name="holo_gray_bright">#33CCCCCC</color>
+	<drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+	<drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+	<color name="dim_foreground_dark">#bebebe</color>
+	<color name="dim_foreground_dark_disabled">#80bebebe</color>
+	<color name="group_button_dialog_pressed_holo_dark">#46c5c1ff</color>
+	<color name="group_button_dialog_focused_holo_dark">#2699cc00</color>
+	<color name="group_button_dialog_pressed_holo_light">#ffffffff</color>
+	<color name="group_button_dialog_focused_holo_light">#4699cc00</color>
+	<!-- Highlight colors for the legacy themes -->
+	<color name="legacy_pressed_highlight">#fffeaa0c</color>
+	<color name="legacy_selected_highlight">#fff17a0a</color>
+	<color name="legacy_long_pressed_highlight">#ffffffff</color>
+	<color name="holo_blue_light">#ff33b5e5</color>
+	<color name="holo_gray_light">#33999999</color>
+	<color name="holo_green_light">#ff99cc00</color>
+	<color name="holo_red_light">#ffff4444</color>
+	<color name="holo_blue_dark">#ff0099cc</color>
+	<color name="holo_green_dark">#ff669900</color>
+	<color name="holo_red_dark">#ffcc0000</color>
+	<color name="holo_purple">#ffaa66cc</color>
+	<color name="holo_orange_light">#ffffbb33</color>
+	<color name="holo_orange_dark">#ffff8800</color>
+	<color name="keyguard_avatar_frame_color">#ffffffff</color>
+	<color name="keyguard_avatar_frame_shadow_color">#80000000</color>
+	<color name="keyguard_avatar_nick_color">#ffffffff</color>
+	<color name="keyguard_avatar_frame_pressed_color">#ff35b5e5</color>
+	<color name="accessibility_focus_highlight">#80ffff00</color>
+	<color name="error">#fe0a5a</color>
+
+	<!-- app colors -->
+	<color name="soundcloud">#f50</color>
+
+	<color name="navy_500">#93A7AC</color>
+	<color name="navy_600">#6F8A91</color>
+	<color name="navy_700">#53676c</color>
+	<color name="navy_800">#374548</color>
+	<color name="Teal_700">#ff00796b</color>
+	<color name="Teal_800">#ff00695c</color>
+	<color name="Blue_700">#ff3367d6</color>
+	<color name="Blue_800">#ff2a56c6</color>
+	<color name="Indigo_700">#ff303f9f</color>
+	<color name="Indigo_800">#ff283593</color>
+	<color name="Purple_700">#ff7b1fa2</color>
+	<color name="Purple_800">#ff6a1b9a</color>
+	<color name="Pink_700">#ffc2185b</color>
+	<color name="Pink_800">#ffad1457</color>
+	<color name="Red_700">#ffc53929</color>
+	<color name="Red_800">#ffb93221</color>
+
+	<color name="background_normal">#fffffbf0</color>
+	<color name="background_normal_press">#ffece7da</color>
+	<color name="bg_sitespan">#ffece7d9</color>
+	<color name="bg_sitespan_press">#ffe0dbce</color>
+	<color name="blue">#ff0f81d9</color>
+	<color name="devideline">#ffd0c9b8</color>
+	<color name="devideline_listview">#ffe5e2d4</color>
+	<color name="dialog_backgroud_full">#6d000000</color>
+	<color name="dialog_divider">#ffbfcbd3</color>
+	<color name="dialog_listitem_press">#ffd0dce4</color>
+	<color name="download_progressbar_bg">#4c000000</color>
+	<color name="drap_bar_word_color">#ff3e7ec8</color>
+	<color name="font_attribute">#ff000000</color>
+	<color name="font_value">#ff888271</color>
+	<color name="gender_female">#ffffaed8</color>
+	<color name="gender_male">#ff65b1ea</color>
+	<color name="gold">#ff000000</color>
+	<color name="gray">#ff7f7f7f</color>
+	<color name="gray_f0f0f0">#fff0f0f0</color>
+	<color name="light_notes_color">#ff999999</color>
+	<color name="link_color">#ff4abad7</color>
+	<color name="maintab_text_normal">#ffc1c1c1</color>
+	<color name="maintab_text_selected_color">#ffffffff</color>
+	<color name="menu_text">#ff555555</color>
+	<color name="msg_editor_backgroud">#ffececec</color>
+	<color name="msg_emote_divider">#ffa1a1a1</color>
+	<color name="msg_plus_item_press">#ff1d1d1d</color>
+	<color name="msg_short_line_normal">#ffafafaf</color>
+	<color name="msg_short_line_selected">#ff5cbde3</color>
+	<color name="msg_status_failed">#ffe64646</color>
+	<color name="msg_status_new">#fffff2cc</color>
+	<color name="msg_status_new_stroke">#ffff9b2f</color>
+	<color name="msg_status_read">#ff82c85f</color>
+	<color name="msg_status_sending">#ff50a5c3</color>
+	<color name="msg_status_sent">#ffeb7837</color>
+	<color name="notes_color">#ff777777</color>
+	<color name="profile_avatar_cover_normal">#00000000</color>
+	<color name="profile_avatar_cover_selected">#7f000000</color>
+	<color name="pull_refresh_textview">#ff000000</color>
+	<color name="round_corner_filter_green">#ff66ccff</color>
+	<color name="text_color">#ff434343</color>
+	<color name="timestampline">#ffe5e1de</color>
+	<color name="transparent">#00000000</color>
+	<color name="transparent_background">#00ffffff</color>
+
+    <color
+        name="background_tab_pressed">#6633b5e5</color>
+    <color
+        name="list_item_selected">#660099cc</color>
+    <color
+        name="abc_input_method_navigation_guard">@android:color/black</color>
+    <color
+        name="abc_search_url_text_normal">#ff7fa87f</color>
+    <color
+        name="abc_search_url_text_pressed">@android:color/black</color>
+    <color
+        name="abc_search_url_text_selected">@android:color/black</color>
+    <color
+        name="about_statusbar">#ff112d2e</color>
+    <color
+        name="accent2">#ff00897b</color>
+    <color
+        name="accent_light">#ff26a69a</color>
+    <color
+        name="accent_material_dark">@color/material_deep_teal_200</color>
+    <color
+        name="accent_material_light">@color/material_deep_teal_500</color>
+    <color
+        name="action_mode">#ff00897b</color>
+    <color
+        name="action_mode_dark">#ff00766a</color>
+    <color
+        name="actionbar_separator">#66ffffff</color>
+    <color
+        name="archived">#ff92a3a3</color>
+    <color
+        name="attach_popup_background">#f8ffffff</color>
+    <color
+        name="avatar_broadcast_large">#ff5b7c8c</color>
+    <color
+        name="avatar_contact_large">#ff73bfb8</color>
+    <color
+        name="avatar_group_large">#ff86cf9b</color>
+    <color
+        name="background_floating_material_dark">@color/material_grey_800</color>
+    <color
+        name="background_floating_material_light">@android:color/white</color>
+    <color
+        name="background_material_dark">@color/material_grey_850</color>
+    <color
+        name="background_material_light">@color/material_grey_50</color>
+    <color
+        name="bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color
+        name="bright_foreground_disabled_material_light">#80000000</color>
+    <color
+        name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+    <color
+        name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
+    <color
+        name="bright_foreground_material_dark">@android:color/white</color>
+    <color
+        name="bright_foreground_material_light">@android:color/black</color>
+    <color
+        name="btn_disabled">#ffc3c3c3</color>
+    <color
+        name="btn_gray_normal">#ffebebeb</color>
+    <color
+        name="btn_gray_pressed">#ffababab</color>
+    <color
+        name="btn_green_normal">#ff20c659</color>
+    <color
+        name="btn_green_pressed">#ff1aa94c</color>
+    <color
+        name="button_light_gray">#ffe9e9e9</color>
+    <color
+        name="button_material_dark">#ff5a595b</color>
+    <color
+        name="button_material_light">#ffd6d7d7</color>
+    <color
+        name="call_answer">#ff09d261</color>
+    <color
+        name="call_decline">#ffe91c43</color>
+    <color
+        name="camera_thumb">#40000000</color>
+    <color
+        name="chat_info_activity">#ffededed</color>
+    <color
+        name="common_action_bar_splitter">#ffd2d2d2</color>
+    <color
+        name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color
+        name="common_signin_btn_dark_text_disabled">#ffaaaaaa</color>
+    <color
+        name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color
+        name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color
+        name="common_signin_btn_default_background">#ffdd4b39</color>
+    <color
+        name="common_signin_btn_light_text_default">#ff737373</color>
+    <color
+        name="common_signin_btn_light_text_disabled">#ffaaaaaa</color>
+    <color
+        name="common_signin_btn_light_text_focused">#ff737373</color>
+    <color
+        name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <color
+        name="composing">#ff09d261</color>
+    <color
+        name="contact_phone_type">#80000000</color>
+    <color
+        name="conversation_background">#ffe0e0e0</color>
+    <color
+        name="conversation_row_date">#66000000</color>
+    <color
+        name="conversation_row_image_text">#ffffffff</color>
+    <color
+        name="conversations_text_gray">#ff7b7b7b</color>
+    <color
+        name="dark_gray">#ff6f6f6f</color>
+    <color
+        name="description_gray">#ff333333</color>
+    <color
+        name="design_fab_shadow_end_color">@android:color/transparent</color>
+    <color
+        name="design_fab_shadow_mid_color">#14000000</color>
+    <color
+        name="design_fab_shadow_start_color">#44000000</color>
+    <color
+        name="design_fab_stroke_end_inner_color">#0a000000</color>
+    <color
+        name="design_fab_stroke_end_outer_color">#0f000000</color>
+    <color
+        name="design_fab_stroke_top_inner_color">#1affffff</color>
+    <color
+        name="design_fab_stroke_top_outer_color">#2effffff</color>
+    <color
+        name="design_snackbar_background_color">#ff323232</color>
+    <color
+        name="design_textinput_error_color">#ffdd2c00</color>
+    <color
+        name="dim_foreground_disabled_material_dark">#80bebebe</color>
+    <color
+        name="dim_foreground_disabled_material_light">#80323232</color>
+    <color
+        name="dim_foreground_material_dark">#ffbebebe</color>
+    <color
+        name="dim_foreground_material_light">#ff323232</color>
+    <color
+        name="disabled_text_color_darker">#66333333</color>
+    <color
+        name="disabled_text_color_lighter">#4b333333</color>
+    <color
+        name="edit_text_counter">#ffcacaca</color>
+    <color
+        name="emoji_popup_body">#ffebeff2</color>
+    <color
+        name="emoji_popup_header">#ffe3e7e8</color>
+    <color
+        name="foreground_material_dark">@android:color/white</color>
+    <color
+        name="foreground_material_light">@android:color/black</color>
+    <color
+        name="full_screen_footer">#ff596169</color>
+    <color
+        name="gallery_cell">#ffeeeeee</color>
+    <color
+        name="gallery_separator">#fff8f8f8</color>
+    <color
+        name="gdrive_restore_anim_gray_dot">#ffc3c7c8</color>
+    <color
+        name="gdrive_restore_anim_green_dot">#ff58cd80</color>
+    <color
+        name="gdrive_setup_disabled_button_color">#4a000000</color>
+    <color
+        name="gray_activity">#ffeeeeee</color>
+    <color
+        name="group_admin">#ff4abc34</color>
+    <color
+        name="highlighted_text_material_dark">#6680cbc4</color>
+    <color
+        name="highlighted_text_material_light">#66009688</color>
+    <color
+        name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
+    <color
+        name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color
+        name="home_row_selection">#0d000000</color>
+    <color
+        name="light_gray">#ffdddddd</color>
+    <color
+        name="link_color_incoming">#ff2b9fd9</color>
+    <color
+        name="link_color_outgoing">#ff14a1b3</color>
+    <color
+        name="list_item_info">#74000000</color>
+    <color
+        name="list_item_sub_title">#8a000000</color>
+    <color
+        name="list_item_title">#de000000</color>
+    <color
+        name="material_blue_grey_800e">#ff37474f</color>
+    <color
+        name="material_blue_grey_900e">#ff263238</color>
+    <color
+        name="material_blue_grey_950e">#ff21272b</color>
+    <color
+        name="material_deep_teal_200">#ff80cbc4</color>
+    <color
+        name="material_deep_teal_500">#ff009688</color>
+    <color
+        name="material_grey_100">#fff5f5f5</color>
+    <color
+        name="material_grey_300">#ffe0e0e0</color>
+    <color
+        name="material_grey_50">#fffafafa</color>
+    <color
+        name="material_grey_600">#ff757575</color>
+    <color
+        name="material_grey_800">#ff424242</color>
+    <color
+        name="material_grey_850">#ff303030</color>
+    <color
+        name="material_grey_900">#ff212121</color>
+    <color
+        name="media_message_progress_determinate">#ff09d261</color>
+    <color
+        name="media_message_progress_indeterminate">#ffffffff</color>
+    <color
+        name="mention_annotation_on_dark">#7fffffff</color>
+    <color
+        name="mention_annotation_on_green">#ffc0d6a7</color>
+    <color
+        name="mention_annotation_on_white">#ffc7d1d6</color>
+    <color
+        name="mention_link_color_on_dark">#ff00b0ff</color>
+    <color
+        name="mention_preview_dark">#ff626262</color>
+    <color
+        name="multi_selection">#4c32b5e4</color>
+    <color
+        name="music_scrubber">#ffffad1f</color>
+    <color
+        name="notice_text">#ff517cd3</color>
+    <color
+        name="patina">#ff549388</color>
+    <color
+        name="popup_dim">#99000000</color>
+    <color
+        name="primary">#ff075e54</color>
+    <color
+        name="primary_dark">#ff054d44</color>
+    <color
+        name="primary_dark_material_dark">@android:color/black</color>
+    <color
+        name="primary_dark_material_light">@color/material_grey_600</color>
+    <color
+        name="primary_dark_voip">#ff006c61</color>
+    <color
+        name="primary_material_dark">@color/material_grey_900</color>
+    <color
+        name="primary_material_light">@color/material_grey_100</color>
+    <color
+        name="primary_text_default_material_dark">#ffffffff</color>
+    <color
+        name="primary_text_default_material_light">#de000000</color>
+    <color
+        name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color
+        name="primary_text_disabled_material_light">#39000000</color>
+    <color
+        name="primary_voip">#ff00786c</color>
+    <color
+        name="red_button_text">#ffd60909</color>
+    <color
+        name="ripple_material_dark">#33ffffff</color>
+    <color
+        name="ripple_material_light">#1f000000</color>
+    <color
+        name="row_1">#fff6f6f6</color>
+    <color
+        name="row_2">#ffe5e5e5</color>
+    <color
+        name="search_text_highlight">#ff32afff</color>
+    <color
+        name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color
+        name="secondary_text_default_material_light">#8a000000</color>
+    <color
+        name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color
+        name="secondary_text_disabled_material_light">#24000000</color>
+    <color
+        name="section_text">#ff00897b</color>
+    <color
+        name="selection_check_background">#ff00b09e</color>
+    <color
+        name="starred_list_background">#ffefeeeb</color>
+    <color
+        name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color
+        name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+    <color
+        name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color
+        name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color
+        name="tab_indicator">#ffffffff</color>
+    <color
+        name="transparent_actionbar_background">#80000000</color>
+    <color
+        name="video_call_text_background">#30000000</color>
+    <color
+        name="voice_note_scrubber_blue">#ff03a9f4</color>
+    <color
+        name="voice_note_scrubber_green">#ff09d261</color>
+    <color
+        name="voice_note_scrubber_grey">#ff93a98b</color>
+
+    <color name="background_bg">#cfd6dc</color>
+
+    <color name="lightwhite">#ffdddddd</color>
+    <color name="red">#ffb91313</color>
+    <color name="divider_line">#ff999999</color>
+    <color name="transparent_black_50">#80000000</color>
+    <color name="transparent_black_80">#cf000000</color>
+    <color name="green">#ff165505</color>
+    <color name="Purple">#ff73058e</color>
+    <color name="touming">#00000000</color>
+    <color name="chat_bg">#fff5f5f5</color>
+    <color name="title_btn_textview_unable">#ffa2a2a2</color>
+    <color name="set_name_color">#ff464646</color>
+    <color name="edit_name_prompt_color">#ffafafaf</color>
+    <color name="video_item_time_bg">#66000000</color>
+    <color name="width_line">#ffafafaf</color>
+    <color name="indicator_color">#ff464646</color>
+    <color name="line">#30a3a7a8</color>
+    <color name="history_word">#ff8c8c8c</color>
+    <color name="grey_button">#ffe5e5e5</color>
+    <color name="yellow_button">#fff9c335</color>
+    <color name="pop_win_bg">#ef8a8a8a</color>
+    <color name="history_word_date">#ffaaaaaa</color>
+    <color name="history_word_filename">#ff666666</color>
+    <color name="history_word_filesize">#ff666666</color>
+    <color name="about_version_font">#ffa6a6a6</color>
+    <color name="transfer_fail">#ffcc0000</color>
+    <color name="invite_introduce">#ff909090</color>
+    <color name="music_title_display_name">#ff666666</color>
+    <color name="music_title_date">#ff8c8c8c</color>
+    <color name="set_name_color_land">#ff666666</color>
+    <color name="user_guide_color">#ff666666</color>
+    <color name="indicator_color_land">#ff464646</color>
+    <color name="button_color">#ff666666</color>
+
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="row_background">#ff00ffff</color>
+    <color name="my_msg_background">#FF494949</color>
+    <color name="in_msg_background">#FF0D4C63</color>
+    <color name="about_color">#3d3d3d</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Text & foreground colors -->
+    <eat-comment />
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/toolbar_mid"
+	android:layout_width="fill_parent"
+	android:layout_height="?android:actionBarSize"
+	android:minHeight="?android:attr/actionBarSize"
+	android:background="@color/navy_500"
+	app:popupTheme="?overflowMenuStyle"
+	app:titleTextAppearance="@style/ToolbarTitleTextAppearance"
+	app:subtitleTextAppearance="@style/ToolbarSubtitleTitleTextAppearance"
+	app:theme="@style/ToolbarStyle"
+	tools:targetApi="lollipop">
+
+	<TextView
+		android:id="@+id/toolbar_title"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:padding="@dimen/activity_horizontal_margin"
+		android:singleLine="true"
+		android:text="Profile"
+		android:textSize="20.0sp"
+		android:textColor="#ffffffff"
+		android:alpha="0.9"/>
+</Toolbar>

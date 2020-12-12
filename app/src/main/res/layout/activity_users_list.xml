@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="com.fantastix.sprite.UsersListActivity">
+
+	<LinearLayout
+		android:id="@+id/network_overlay"
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/divider"
+		android:background="@color/holo_gray_light"
+		android:padding="12dp">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Current Network:"
+			style="@style/textview_small"
+			android:textColor="@color/blue"
+			tools:ignore="HardcodedText"/>
+		<TextView
+			android:id="@+id/net_ussid"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="@dimen/activity_horizontal_margin"
+			android:text=""
+			style="@style/TextViewStyle"
+			tools:ignore="RtlHardcoded"/>
+	</LinearLayout>
+
+	<ListView
+		android:id="@+id/usersListView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_weight="0.40"
+		android:transcriptMode="alwaysScroll"
+		android:layout_below="@id/network_overlay"
+		android:padding="0dip"
+		android:divider="@drawable/divider_gray"
+		android:dividerHeight="0dp"
+		android:stackFromBottom="true"
+		tools:listitem="@layout/users_list_item"
+		tools:ignore="ObsoleteLayoutParam"/>
+
+	<View
+		android:id="@+id/divider"
+		android:layout_width="fill_parent"
+		android:layout_height="1dip"
+		android:layout_below="@id/network_control_tools"/>
+
+	<android.support.v7.widget.Toolbar
+		android:id="@+id/network_control_tools"
+		android:layout_width="match_parent"
+		android:layout_height="?android:actionBarSize"
+		android:orientation="horizontal"
+		android:layout_alignParentTop="true"
+		android:layout_alignParentStart="true"
+		android:gravity="center"
+		android:padding="15dip"
+		style="@style/Toolbar.Dark">
+
+		<ImageView
+			android:id="@id/wifiap_btn_back"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="0"
+			android:src="@drawable/action_arrow_back"
+			tools:ignore="ContentDescription"/>
+
+		<TextView
+			android:id="@+id/currentUser"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:gravity="center"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textColor="@color/white"
+			android:text="Chat"
+			tools:ignore="HardcodedText"/>
+
+		<Switch
+			android:id="@id/wifiap_btn_createap"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="0"/>
+	</android.support.v7.widget.Toolbar>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/connected_green_toast"
+		android:padding="@dimen/padding_medium"
+		android:gravity="center"
+		android:visibility="gone"
+		android:nextFocusDown="@anim/dialog_exit"
+		android:layout_marginTop="60dp">
+		<TextView
+			android:id="@+id/connecting_connected"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/connected"
+			style="@style/textview_small"/>
+	</RelativeLayout>
+
+</RelativeLayout>

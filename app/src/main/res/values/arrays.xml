@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="default_status">
+		<item></item>
+	</string-array>
+
+	<string-array name="online_state_type">
+		<item></item>
+	</string-array>
+
+	<string-array name="presence_state">
+		<item>Online</item>
+		<item>Busy</item>
+		<item>Away</item>
+		<item>Do not disturb</item>
+	</string-array>
+
+	<array name="birth_year">
+		<item>2017</item>
+		<item>2016</item>
+	</array>
+
+	<string-array name="font_size">
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>14</item>
+		<item>16</item>
+		<item>18</item>
+		<item>20</item>
+		<item>24</item>
+	</string-array>
+
+	<string-array name="font_size_values">
+		<item>bold</item>
+		<item>italic</item>
+		<item>normal</item>
+	</string-array>
+	
+	<array name="add_activity">
+
+	</array>
+
+
+	<!-- Chatbot -->
+	<string-array name="conversations">
+		<item>Hi there!</item>
+		<item>Hi</item>
+		<item>Greetings</item>
+		<item>Have a nice $checktime</item>
+		<item>Ask me anything</item>
+		<item>My name is Cris</item>
+		<item>My father created me  {{2017 - {{year}}}} ago.</item>
+		<item>Can you tell me your name?</item>
+		<item>I like blue. How about you? What\'s your color?</item>
+		<item>Hhmm</item>
+		<item>I\'m not quite sure where you are. \'Cause I\'m having a lil bit of connection problem. But don\'t worry I</item>
+		<item>You\'re in $Location$</item>
+		<item>So can I know who\'s on your mind?</item>
+		<item>Enjoy then XOXO</item>
+		<item>LOL</item>
+		<item>Being rude is never a good idea</item>
+		<item>I don\'t respond well with profanity</item>
+		<item>Me either.</item>
+		<item>Some people thing you are</item>
+		<item>Ayuh</item>
+		<item>Glad to see you, {{username}}</item>
+		<item>Why are you cris?</item>
+		<item>Do you mean your name is {{username}}</item>
+		<item>It\'s a pleasure to introduce myself to you, {{username}}</item>
+		<item>Bye bye</item>
+		<item>How can I help you</item>
+		<item>Ambiguous: Ask, who, what or where /is</item>
+		<item>would you like to teach me a new answer to </item>
+		<item>OK, let\'s forget it then</item>
+		<item>I would look into the web for that knowledge</item>
+		<item>Umm, can you tell me your name so I can call you by your actual name instead of "Sir" or "Ma'am" or something else \'cause that\'d rude if I do that?</item>
+		<item>I\'d think you\'d be younger. Or what are you 25?</item>
+		<item>Yeaks</item>
+		<item></item>
+	</string-array>
+
+</resources>

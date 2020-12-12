@@ -1,0 +1,40 @@
+<RelativeLayout
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent" >
+
+	<Gallery
+	   android:id="@+id/myGallery"
+	   android:layout_width="fill_parent"
+	   android:layout_height="wrap_content"
+	   android:gravity="bottom" />
+
+	<TextView
+	   android:id="@+id/textView1"
+	   android:textColor="@color/purple"
+	   android:textSize="20dp"
+	   android:layout_width="wrap_content"
+	   android:layout_height="wrap_content"
+	   android:layout_below="@+id/myGallery"
+	   android:layout_centerHorizontal="true"
+	   android:layout_marginTop="25dp"
+	   android:text="Static Gallery Creation" />
+
+	<TextView
+	   android:id="@+id/textView2"
+	   android:layout_width="wrap_content"
+	   android:layout_height="wrap_content"
+	   android:layout_below="@+id/textView1"
+	   android:layout_centerHorizontal="true"
+	   android:text=""
+	   android:layout_marginTop="30dp" />
+
+	<ImageView
+	   android:id="@+id/imageView1"
+	   android:layout_width="wrap_content"
+	   android:layout_height="wrap_content"
+	   android:layout_alignParentBottom="true"
+	   android:layout_marginBottom="30dp"
+	   android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

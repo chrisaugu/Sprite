@@ -1,0 +1,41 @@
++--------------------------------------+
+|             ::Cris::                 |
++--------------------------------------+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\|
+
+|| Functions
+
++ Camera
+++-
+
++ Profile
+++-Edit/set profile
+++-Camera
+++-Album
+++-Set status
+
++ Fragmented Mainpage
+++-Camera
+++-Profile
+++-Network
+++-Messaging
+++-Chatbot
+++-Notification
+
++ Splash
+++-Load Mainpage
+
++ Login = Shared Preference
+++-
+
++ Network
+++-Online buddy list
+++-Direct to Messaging
+
++ Chatbot
+++-Chatroom
+
++ Messaging
+++-Chatroom
+++-View buddy profile
+++-Chat

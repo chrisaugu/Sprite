@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+   android:paddingLeft="16.0dip"
+   android:paddingRight="16.0dip"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content">
+
+	<RelativeLayout
+	   android:id="@+id/otherprofile_layout_sex_sign"
+	   android:layout_width="fill_parent"
+	   android:layout_height="36.0dip">
+
+		<LinearLayout
+		   android:gravity="center"
+		   android:orientation="horizontal"
+		   android:id="@+id/otherprofile_layout_gender"
+		   android:paddingLeft="6.0dip"
+		   android:paddingRight="6.0dip"
+		   android:layout_width="wrap_content"
+		   android:layout_height="wrap_content"
+		   android:layout_centerVertical="true">
+
+			<ImageView
+			   android:id="@+id/otherprofile_iv_gender"
+			   android:layout_width="88.0dip"
+			   android:layout_height="88.0dip"
+			   android:layout_marginRight="2.0dip"
+			   android:src="@drawable/avatar_contact_large"
+			   android:scaleType="fitXY"/>
+
+		</LinearLayout>
+
+	</RelativeLayout>
+</LinearLayout>

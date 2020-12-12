@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/toolbar_chatroom"
+	android:layout_width="fill_parent"
+	android:layout_height="?android:actionBarSize"
+	app:titleTextAppearance="@style/ToolbarTitleTextAppearance"
+	app:subtitleTextAppearance="@style/ToolbarSubtitleTitleTextAppearance"
+	android:theme="@style/Toolbar.Deere"
+	android:layout_above="@+id/conversation_view">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="fill_parent"
+		android:gravity="fill">
+
+		<ImageView
+			android:id="@+id/action_bar_button_back"
+			android:src="@drawable/fbui_arrow_left_l"
+			android:tint="@color/bot_bg"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:scaleType="centerInside"/>
+
+		<LinearLayout
+			android:layout_width="0dip"
+			android:layout_height="match_parent"
+			android:orientation="horizontal"
+			android:gravity="center"
+			android:layout_weight="5">
+
+			<ImageView
+				android:id="@+id/current_active_user_avatar"
+				android:layout_width="45dp"
+				android:layout_height="45dp"
+				android:src="@drawable/user_avatar"
+				android:background="@drawable/white_circle"
+				android:layout_marginRight="10dp" />
+
+			<LinearLayout
+				android:orientation="vertical"
+				android:layout_width="match_parent"
+				android:layout_height="fill_parent">
+
+				<TextView
+					android:id="@+id/current_active_user_id"
+					android:layout_width="fill_parent"
+					android:layout_height="0dp"
+					android:layout_weight="1"
+					android:gravity="center|left"
+					android:text="Dolly"
+					android:textColor="@color/bot_bg"
+					android:textSize="@dimen/font_size_18" />
+
+				<!--TextView
+                   android:id="@+id/current_active_user_status"
+                   android:layout_width="fill_parent"
+                   android:layout_height="0dp"
+                   android:layout_weight="1"
+                   android:singleLine="true"
+                   android:ellipsize="marquee"
+                   android:textColor="@color/bot_bg"
+                   android:text="@string/status" /-->
+			</LinearLayout>
+		</LinearLayout>
+
+		<ImageView
+			android:id="@+id/actionbar_more"
+			android:src="@drawable/actionbar_more_state"
+			android:tint="@color/bot_bg"
+			android:layout_width="0dp"
+			android:layout_height="fill_parent"
+			android:layout_weight="1"
+			android:scaleType="centerInside"/>
+
+	</LinearLayout>
+
+</LinearLayout>

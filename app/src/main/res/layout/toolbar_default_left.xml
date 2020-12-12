@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+   xmlns:app="http://schemas.android.com/apk/res/com.fantastix.cris"
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:id="@+id/toolbar_default"
+   android:orientation="horizontal"
+   android:layout_width="fill_parent"
+   android:layout_height="?android:actionBarSize"
+   android:minHeight="?android:attr/actionBarSize"
+   android:background="@color/navy_500"
+   app:popupTheme="?overflowMenuStyle"
+   app:titleTextAppearance="@style/ToolbarTitleTextAppearance"
+   app:subtitleTextAppearance="@style/ToolbarSubtitleTitleTextAppearance"
+   app:theme="@style/ToolbarStyle"
+   android:layout_gravity="center|top">
+
+	<ImageView
+	   android:layout_width="?android:actionBarSize"
+	   android:layout_height="?android:actionBarSize"
+	   android:src="@drawable/ic_back_shadow"
+	   android:scaleType="center"/>
+
+	<TextView
+	   android:id="@+id/toolbar_title"
+	   android:layout_width="match_parent"
+	   android:layout_height="?android:actionBarSize"
+	   android:padding="@dimen/activity_horizontal_margin"
+	   android:layout_gravity="center|left"
+	   android:gravity="center|left"
+	   android:singleLine="true"
+	   android:text="Hello"
+	   android:textSize="20.0sp"
+	   android:textColor="#ffffffff"
+	   android:alpha="0.9"
+	   android:layout_weight="1"/>
+
+	<ImageView
+	   android:layout_width="?android:actionBarSize"
+	   android:layout_height="?android:actionBarSize"
+	   android:src="@drawable/ic_more_horiz"
+	   android:scaleType="center"/>
+
+</LinearLayout>
